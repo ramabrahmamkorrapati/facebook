@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: lightgrey;
+}
+
+.one{
+    margin-left: 20%;
+    margin-top: 18%;
+}
+h1{
+    color: blue;
+    font-size: 5rem;
+}
+input{
+    display:block;
+    margin: 10px;
+    }
+    form{
+        float: right;
+        margin-right: 40%;
+        margin-top: -10%;
+        background-color: white;
+        width: 280px;
+      height: 30vh;
+      border-radius: 10px;
+     
+      
+    }
+    input{
+        width: 16rem;
+        height: 40px;
+        padding: 20px;
+        
+        
+      
+
+    }
+    button{
+        float: right;
+       margin-right: 5%;
+        margin-top: -2%;
+        width: 16rem;
+        height: 40px;
+        padding: 9px;
+        color:white;
+        background-color:blue;
+        border:1px solid white;
+    }
+    
+   
